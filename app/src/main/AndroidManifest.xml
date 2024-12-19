@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application>
+        <meta-data
+            android:name="org.godotengine.plugin.v2.ApplovinMax"
+            android:value="org.godotengine.plugin.android.godotapplovinmax.ApplovinMax"/>
+        <meta-data
+            android:name="org.godotengine.plugin.v2.MaxBannerAd"
+            android:value="org.godotengine.plugin.android.godotapplovinmax.MaxBannerAd"/>
+        <meta-data
+            android:name="org.godotengine.plugin.v2.MaxInterstitial"
+            android:value="org.godotengine.plugin.android.godotapplovinmax.MaxInterstitial"/>
+        <meta-data
+            android:name="org.godotengine.plugin.v2.MaxRewarded"
+            android:value="org.godotengine.plugin.android.godotapplovinmax.MaxRewarded"/>
+
+    </application>
+
+</manifest>
