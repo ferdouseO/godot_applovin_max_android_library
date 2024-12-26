@@ -129,16 +129,6 @@ public class MaxRewarded extends GodotPlugin implements MaxRewardedAdListener {
 
 
 
-
-
-
-
-
-
-
-
-
-
     //Callbacks
 
     @Override
